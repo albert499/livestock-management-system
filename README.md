@@ -1,4 +1,4 @@
-# 🐄 PastoralLink — Livestock Marketing and Management System
+#  PastoralLink — Livestock Marketing and Management System
 
 > A full-stack web application connecting pastoral farmers in Ghana with livestock buyers.
 
@@ -16,11 +16,11 @@ PastoralLink is a digital marketplace and management tool built for pastoral far
 - There are no digital tools for farmers to manage their livestock records
 
 **Core features:**
-- 🛒 Marketplace — browse livestock filtered by species, region, and price
-- ➕ Add Listing — farmers register and list animals with full details
-- 📊 Dashboard — manage listings, view stats, mark animals as sold
-- 💬 Inquiries — buyers send direct contact requests to farmers
-- 📈 Market Prices — current average prices by species and region
+-  Marketplace — browse livestock filtered by species, region, and price
+-  Add Listing — farmers register and list animals with full details
+-  Dashboard — manage listings, view stats, mark animals as sold
+-  Inquiries — buyers send direct contact requests to farmers
+-  Market Prices — current average prices by species and region
 
 **Tech Stack:** React 18 · Node.js · Express 4 · SQLite (better-sqlite3) · React Router v6 · Axios
 
@@ -76,8 +76,6 @@ Open your browser at **http://localhost:3000**
 | Display font | Syne | Headings, prices |
 | Body font | DM Sans | All body text |
 
-### App Interface Screenshots
-> Screenshots are included in the video demo submission.
 
 **Key screens:**
 - `/` — Landing page with live stats, species browser, market prices
@@ -86,8 +84,8 @@ Open your browser at **http://localhost:3000**
 - `/dashboard` — Stats, species breakdown chart, tabbed listings
 - `/livestock/:id` — Animal detail page with buyer inquiry form
 
-### Figma Mockups
-> Figma link: *(add your Figma link here if available)*
+### GitHub
+> github link: *(https://github.com/albert499/livestock-management-system.git)*
 
 ---
 
@@ -123,7 +121,7 @@ cd frontend && npm run build
 
 ## Video Demo
 
-> **Link:** *(paste your Loom or YouTube link here)*  
+> **Link:** *(https://youtu.be/8u_lQdGImP0)*  
 > Duration: 5–10 minutes demonstrating all app functionalities
 
 ---
@@ -159,4 +157,3 @@ livestock-management-system/
 
 ---
 
-*Alberta · BSc Software Engineering · African Leadership University (ALU)*
