@@ -310,18 +310,4 @@ The PastoralLink prototype demonstrates that an integrated livestock management 
 
 5-minute demonstration covering all core functionalities: marketplace browsing and filtering, livestock detail and buyer inquiry, health and productivity record management, dashboard statistics, and mobile responsiveness across devices.
 
----
-
-## References
-
-Aker, J. C. (2011). Dial "A" for agriculture: A review of ICT for agricultural extension in developing countries. *Agricultural Economics, 42*(6), 631–647.
-
-Bangor, A., Kortum, P. T., & Miller, J. T. (2008). An empirical evaluation of the System Usability Scale. *International Journal of Human-Computer Interaction, 24*(6), 574–594.
-
-IFAD. (2020). *Rural development report 2020*. International Fund for Agricultural Development.
-
-Klerkx, L., Jakku, E., & Labarthe, P. (2019). A review of social science on digital agriculture and smart farming. *NJAS – Wageningen Journal of Life Sciences, 90–91*, 100315.
-
-Nielsen, J. (1993). *Usability engineering*. Academic Press.
-
-World Bank. (2022). *Agriculture and food overview*. https://www.worldbank.org
+--
