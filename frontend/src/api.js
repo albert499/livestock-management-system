@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: '/api' });
+const API = axios.create({ baseURL: 'https://livestock-management-system-ors5.onrender.com/api' });
 
 export const getLivestock    = (params) => API.get('/livestock', { params });
 export const getLivestockById = (id)    => API.get(`/livestock/${id}`);
